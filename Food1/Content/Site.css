@@ -60,12 +60,21 @@ textarea {
 }
 
 
-/* Header
------------------------------------------------------------*/
+/* Header  -----------------------------------------------------------*/
 
 .background-header
 {
     height:93px;
     width:100%;
     background: url(Content/image/header.png) bottom repeat-x;
+}
+
+.navbar-header ul li a
+{
+    font: 900 14px Lato,HelveticaNeue,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    color: #faf8eb !important;
+    display: block;
+    text-decoration: none;    
 }
