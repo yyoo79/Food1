@@ -23,3 +23,28 @@ C:\Users\yyoo\Documents\Visual Studio 2012\Projects\Food1\Food1\bin\System.Web.W
 C:\Users\yyoo\Documents\Visual Studio 2012\Projects\Food1\Food1\obj\Debug\Food1.csprojResolveAssemblyReference.cache
 C:\Users\yyoo\Documents\Visual Studio 2012\Projects\Food1\Food1\obj\Debug\Food1.dll
 C:\Users\yyoo\Documents\Visual Studio 2012\Projects\Food1\Food1\obj\Debug\Food1.pdb
+C:\Users\yyoo\Source\Repos\Food1\Food1\bin\Food1.dll
+C:\Users\yyoo\Source\Repos\Food1\Food1\bin\Food1.pdb
+C:\Users\yyoo\Source\Repos\Food1\Food1\bin\Antlr3.Runtime.dll
+C:\Users\yyoo\Source\Repos\Food1\Food1\bin\EntityFramework.dll
+C:\Users\yyoo\Source\Repos\Food1\Food1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yyoo\Source\Repos\Food1\Food1\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\yyoo\Source\Repos\Food1\Food1\bin\Newtonsoft.Json.dll
+C:\Users\yyoo\Source\Repos\Food1\Food1\bin\System.Web.Mvc.dll
+C:\Users\yyoo\Source\Repos\Food1\Food1\bin\System.Web.Optimization.dll
+C:\Users\yyoo\Source\Repos\Food1\Food1\bin\System.Web.Providers.dll
+C:\Users\yyoo\Source\Repos\Food1\Food1\bin\System.Web.Razor.dll
+C:\Users\yyoo\Source\Repos\Food1\Food1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\yyoo\Source\Repos\Food1\Food1\bin\System.Web.WebPages.dll
+C:\Users\yyoo\Source\Repos\Food1\Food1\bin\System.Web.WebPages.Razor.dll
+C:\Users\yyoo\Source\Repos\Food1\Food1\bin\WebGrease.dll
+C:\Users\yyoo\Source\Repos\Food1\Food1\bin\EntityFramework.xml
+C:\Users\yyoo\Source\Repos\Food1\Food1\bin\Newtonsoft.Json.xml
+C:\Users\yyoo\Source\Repos\Food1\Food1\bin\System.Web.Mvc.xml
+C:\Users\yyoo\Source\Repos\Food1\Food1\bin\System.Web.Razor.xml
+C:\Users\yyoo\Source\Repos\Food1\Food1\bin\System.Web.WebPages.xml
+C:\Users\yyoo\Source\Repos\Food1\Food1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\yyoo\Source\Repos\Food1\Food1\bin\System.Web.WebPages.Razor.xml
+C:\Users\yyoo\Source\Repos\Food1\Food1\obj\Debug\Food1.csprojResolveAssemblyReference.cache
+C:\Users\yyoo\Source\Repos\Food1\Food1\obj\Debug\Food1.dll
+C:\Users\yyoo\Source\Repos\Food1\Food1\obj\Debug\Food1.pdb
