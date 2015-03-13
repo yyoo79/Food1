@@ -5,6 +5,7 @@
     http://www.lulu-cafe.com/
         
     */
+/*
 body {
     font-size: .85em;
     font-family: "Segoe UI", Verdana, Helvetica, Sans-Serif;
@@ -15,9 +16,12 @@ body {
 header, footer, nav, section {
     display: block;
 }
+    */
 
 /* Styles for basic forms
 -----------------------------------------------------------*/
+
+/*
 fieldset {
     border: 1px solid #ddd;
     padding: 0 1.4em 1.4em 1.4em;
@@ -40,10 +44,11 @@ textarea {
 .editor-field {
     margin: 0.5em 0 0 0;
 }
-
+    */
 
 /* Styles for validation helpers
 -----------------------------------------------------------*/
+/*
 .field-validation-error {
     color: #f00;
 }
@@ -66,9 +71,10 @@ textarea {
     display: none;
 }
 
-
+    */
 /* Header  -----------------------------------------------------------*/
 
+/*
 .background-header
 {
     height:93px;
@@ -85,3 +91,4 @@ textarea {
     display: block;
     text-decoration: none;    
 }
+    */
