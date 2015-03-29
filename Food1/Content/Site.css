@@ -5,90 +5,22 @@
     http://www.lulu-cafe.com/
         
     */
-/*
-body {
-    font-size: .85em;
-    font-family: "Segoe UI", Verdana, Helvetica, Sans-Serif;
-    color: #232323;
-    background-color: #fff;
-}
 
-header, footer, nav, section {
-    display: block;
-}
-    */
-
-/* Styles for basic forms
------------------------------------------------------------*/
-
-/*
-fieldset {
-    border: 1px solid #ddd;
-    padding: 0 1.4em 1.4em 1.4em;
-    margin: 0 0 1.5em 0;
-}
-
-legend {
-    font-size: 1.2em;
-    font-weight: bold;
-}
-
-textarea {
-    min-height: 75px;
-}
-
-.editor-label {
-    margin: 1em 0 0 0;
-}
-
-.editor-field {
-    margin: 0.5em 0 0 0;
-}
-    */
-
-/* Styles for validation helpers
------------------------------------------------------------*/
-/*
-.field-validation-error {
-    color: #f00;
-}
-
-.field-validation-valid {
-    display: none;
-}
-
-.input-validation-error {
-    border: 1px solid #f00;
-    background-color: #fee;
-}
-
-.validation-summary-errors {
-    font-weight: bold;
-    color: #f00;
-}
-
-.validation-summary-valid {
-    display: none;
-}
-
-    */
-/* Header  -----------------------------------------------------------*/
-
-/*
-.background-header
-{
-    height:93px;
-    width:100%;
-    background: url(Content/image/header.png) bottom repeat-x;
-}
-
-.navbar-header ul li a
-{
-    font: 900 14px Lato,HelveticaNeue,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    text-transform: uppercase;
-    text-align: center;
-    color: #faf8eb !important;
-    display: block;
-    text-decoration: none;    
-}
-    */
+ h2{
+        margin: 0;     
+        color: #666;
+        padding-top: 90px;
+        font-size: 52px;
+        font-family: "trebuchet ms", sans-serif;    
+    }
+    .item{
+        background: #333;    
+        text-align: center;
+        height: 300px !important;
+    }
+    .carousel{
+        margin-top: 20px;
+    }
+    .bs-example{
+	    margin: 20px;
+    }

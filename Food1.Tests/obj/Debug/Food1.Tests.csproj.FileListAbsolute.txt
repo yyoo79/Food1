@@ -23,3 +23,4 @@ C:\Users\yyoo\Documents\Visual Studio 2012\Projects\Food1\Food1.Tests\bin\Debug\
 C:\Users\yyoo\Documents\Visual Studio 2012\Projects\Food1\Food1.Tests\obj\Debug\Food1.Tests.csprojResolveAssemblyReference.cache
 C:\Users\yyoo\Documents\Visual Studio 2012\Projects\Food1\Food1.Tests\obj\Debug\Food1.Tests.dll
 C:\Users\yyoo\Documents\Visual Studio 2012\Projects\Food1\Food1.Tests\obj\Debug\Food1.Tests.pdb
+C:\Users\yyoo\Documents\Visual Studio 2012\Projects\Food1\Food1.Tests\bin\Debug\System.Web.Optimization.xml
